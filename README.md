@@ -34,3 +34,22 @@ The system utilizes a lightweight, frontend-only single-file architecture deploy
 ---
 
 ## 🏎️ Data Processing Pipeline
+[User Text Input] ──> [OSM Nominatim Geocoder API]
+│
+▼
+[Map Centered]
+│
+▼
+[Active Driver GPS Coordinates Step Update]
+│
+▼
+[Turf.js Vector Buffer Area Generation]
+│
+▼
+[H3-js Quantization Into Discrete Hex Cells]
+│
+▼
+[O(1) Set Matching Filter: Red = Eligible | Grey = Ineligible]
+│
+▼
+[Leaflet Map Redraw]
