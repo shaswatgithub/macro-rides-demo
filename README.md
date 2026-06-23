@@ -8,7 +8,7 @@ A high-performance, interactive geospatial visualization tool built for **Macro 
 
 ## 🔗 Project Links
 
-* **🖥️ Live Interactive Demo:** [Deploy Link via Netlify]([https://your-app-name.netlify.app](https://macro-rides-demo.netlify.app/)) *(Replace with your Netlify URL)*
+* **🖥️ Live Interactive Demo:**https://macro-rides-demo.netlify.app/
 * **📁 Source Code Repository:** https://github.com/shaswatgithub/macro-rides-demo
 
 ---
